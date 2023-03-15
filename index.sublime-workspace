@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ima",
+				"images"
+			],
+			[
+				"u",
+				"unset\ttext-decoration"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"m",
+				"myImage"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"the",
+				"the-way"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"p",
+				"pointer\tcursor"
+			],
+			[
+				"bt",
+				"btntext"
+			],
+			[
+				"traf",
+				"transform\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			],
+			[
+				"borde",
+				"border-right\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"boed",
+				"border\tproperty"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"co",
+				"confirm_password"
+			],
+			[
+				"confi",
+				"confirm_password"
+			],
+			[
+				"d",
+				"doesnot"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"cl",
+				"clearInterval"
+			],
+			[
+				"po",
+				"poer"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"an",
+				"anim"
+			],
+			[
+				"red",
+				"redElem"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"mo",
+				"mouseenter"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"i",
+				"indexOf"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"is",
+				"isArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"forEACH"
+			],
+			[
+				"op",
+				"opr2"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"BRRA",
+				"border-radius\tproperty"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"fs",
+				"font-style\tproperty"
+			],
+			[
+				"sc",
+				"scale()\ttransform"
+			],
+			[
+				"animation",
+				"animation\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"bor",
+				"border-left\tproperty"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"imag",
+				"imagek"
+			],
+			[
+				"animation-d",
+				"animation-delay\tproperty"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"column\tflex-direction"
+			],
+			[
+				"ovwe",
+				"overflow\tproperty"
+			],
+			[
+				"trs",
+				"transform\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"hi",
+				"himalayan2f"
+			],
+			[
+				"fl",
+				"flex-basis\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"contac",
+				"Contact"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"r",
+				"royal"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"opr",
+				"opr1"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"menu",
+				"menulist"
+			],
+			[
+				"men",
+				"menulist"
+			],
+			[
+				"t",
+				"translateX()\ttransform"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"mrgin",
+				"margin-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ve",
+				"vertical-rl\twriting-mode"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"so",
+				"Social-icons"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t<title>Document</title>\n\t<link rel=\"stylesheet\" href=\"css/style.css\">\n</head>\n<body style=\"background: #C7CBD1; text-align: center;\">\n\t<p title=\"About W3Schools\">W3Schools is a web developer's site.</p>\n\n\t<img src=\"images/wd.jpg\" width=\"250px\" height=\"400px;\">\n\t<br>\n\t<a href=\"https://www.facebook.com\"> This is a facebbok website\n\t</a>\n\t<br>\n\t<h1>London</h1>\n<hr>\n\n<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>\n  \n\n   <br>\n\n<pre>\n\n  My Bonnie lies over the ocean.\n\n  My Bonnie lies over the sea.\n\n  My Bonnie lies over the ocean.\n\n  Oh, bring back my Bonnie to me.\n</pre>\n\n<p style=\"color:#EB8B19\">\n\tthe ads in w3schools are so awkward\n</p>\n\n<p style=\"font-family:courier\">working on something\n </p>\n\n <p style=\"text-align: center;\"> thw text won't be in left or right </p>\n\n <p style=\"\nfont-size\n:50px;\">This is a paragraph.</p>\n  <br>\n\n  <pre>\n  \t\n  \tthe way    the pave\n\n  \t the single   the sorrow\n\n\n  \t the mingle   the pressure\n  </pre>\n\n   <p>\nWWF's mission is to stop the \n<strong>\ndegradation\n</strong>\n of our planet's natural environment.\n</p>\n\n<h1>Tokyo</h1>\n\n<p>\nTokyo is the capital of Japan, the most populous \n<em>\nmetropolitan  area in the world.\n</em>\n\n</p>\n\n<p>\nHTML is \n<mark style=\"color:red; background: black;\">\nFUN\n</mark>\n to learn!\n</p>\n\n<p>\nH\n<sub>\n2\n</sub>\nO is the scientific term for water.\n</p>\n\n<p>\n\tozone(o<sup>3</sup>) is one of the cause of global warming\n\n</p>\n\n\t<p>\nMy favorite color is \n<del>\nblue\n</del>\n red.\n</p>\n\n <p>\nI am so \n<q>\ncool\n</q>\n.\n</p>\n\n\n<blockquote\n \ncite\n=\"http://www.worldwildlife.org/who/index.html\">\nFor 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.\n</blockquote>\n\n<bdo dir=\"rtl\">fucking chirst i learn new </bdo>\n\n<p>\nThe <abbr\n \ntitle=\n\"World Health Organization\"> WHO</abbr\n> was founded in 1948.\n</p>\n\n <a href=\"images/maga.jpg\" style=\"text-decoration: all;\" target=\"blank\"> Nera mata Trump</a>\n\n  <p>\n<img src=\"images/maga.jpg\" style=\"\nfloat:left;\n;\">\nThis is a paragraph.\nThis paragraph contains an image\n</p>\n \n\n\n <table>\n \t<tr>\n \t\t\n \t</tr>\n </table>\n</body>\n</html>",
+			"file": "/C/Users/STC/Desktop/S CoDe/8-03-23/index.html",
+			"file_size": 2560,
+			"file_write_time": 133227617759960530,
+			"settings":
+			{
+				"buffer_size": 2457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/STC/Desktop/S CoDe/8-03-23",
+		"/C/Users/STC/Desktop/S CoDe/8-03-23/css",
+		"/C/Users/STC/Desktop/S CoDe/8-03-23/images"
+	],
+	"file_history":
+	[
+		"/C/Users/STC/Desktop/$ - 1/style.css",
+		"/C/Users/STC/Desktop/$ - 1/index.html",
+		"/C/Users/STC/Desktop/website folder/Kawshiik Chakma/css/style.css",
+		"/C/Users/STC/Desktop/website folder/javascript whole/js-14-12-22/Index.html",
+		"/C/Users/STC/Desktop/SUGER DADDy/Css/style.css",
+		"/C/Users/STC/Desktop/SUGER DADDy/Index.html",
+		"/C/Users/STC/Desktop/Themeforest/hhh.js",
+		"/C/Users/STC/Desktop/Themeforest/index.html",
+		"/C/Users/STC/Desktop/K PORTFOLIO/css/style.css",
+		"/C/Users/STC/Desktop/K PORTFOLIO/index.html",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K3/css/style.css",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K3/index.html",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K3/style.css",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K1/Index.html",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K2/css/style.css",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K2/index.html",
+		"/C/Users/STC/Desktop/website folder/K WORLD/K1/CSS/style.css",
+		"/C/Users/STC/Desktop/website folder/button hover/css/style.css",
+		"/C/Users/STC/Desktop/website folder/button hover/index.html",
+		"/C/Users/STC/Desktop/website folder/ki r kormu/css/style.css",
+		"/C/Users/STC/Desktop/website folder/ki r kormu/index.html",
+		"/C/Users/STC/Desktop/website folder/javascript whole/js-26-11-22/index.html",
+		"/C/Users/STC/Desktop/website folder/javascript whole/js-15-11-12/Index.html",
+		"/C/Users/STC/Desktop/website folder/javascript whole/js-15-11-22/Index.html",
+		"/C/Users/STC/Desktop/website folder/javascript whole/js-12-11-22/index.html",
+		"/C/Users/STC/Desktop/website folder/javascript/k.html",
+		"/C/Users/STC/Desktop/website folder/javascript/Index.html",
+		"/C/Users/STC/Desktop/website folder/Learning new/Index.html",
+		"/C/Users/STC/Desktop/website folder/Bootstrap/Images/css/style.css",
+		"/C/Users/STC/Desktop/website folder/DAMN HEAD/css/style.css",
+		"/C/Users/STC/Desktop/K PORTFOLIO/index.sublime-project",
+		"/C/Users/STC/Desktop/Learning new/Index.html",
+		"/C/Users/STC/Desktop/Learning new/contact.html",
+		"/C/Users/STC/Desktop/Learning new/about.html",
+		"/C/Users/STC/Desktop/Learning new/models.html",
+		"/C/Users/STC/Desktop/Learning new/css/style.css",
+		"/C/Users/STC/Desktop/Learning new/gs.html",
+		"/C/Users/STC/Desktop/javascript/Index.html",
+		"/C/Users/STC/Desktop/javascript/k.html",
+		"/C/Users/STC/Desktop/javascript/css/style.css",
+		"/C/Users/STC/Desktop/javascript/js/myscript.js",
+		"/C/Users/STC/Desktop/Kawshiik Chakma/css/style.css",
+		"/C/Users/STC/Desktop/Kawshiik Chakma/Index.html",
+		"/C/Users/STC/Desktop/ArikaMeem/Index.html",
+		"/C/Users/STC/Desktop/ArikaMeem/Css/style.css",
+		"/C/Users/STC/Desktop/ke 2/css/style.css",
+		"/C/Users/STC/Desktop/ArikaMeem/Images/290095639_567325014967369_6408678571693510242_n.jpg",
+		"/C/Users/STC/Desktop/New folder (2)/index.html",
+		"/C/Users/STC/Desktop/New folder (2)/css/style.css",
+		"/C/Users/STC/Desktop/Bootstrap/css/style.css",
+		"/C/Users/STC/Desktop/Bootstrap/Index.html",
+		"/C/Users/STC/Desktop/DAMN HEAD/css/style.css",
+		"/C/Users/STC/Desktop/underdstanding bootstrap/Index.html",
+		"/C/Users/STC/Desktop/underdstanding bootstrap/css/bootstrap.min.css",
+		"/C/Users/STC/Desktop/DAMN HEAD/Index.html",
+		"/C/Users/STC/Desktop/ke 2/Index.html",
+		"/C/Users/STC/Desktop/DAMN HEAD/css/font-awesome.min.css",
+		"/C/Users/STC/Desktop/k 2/Index.html",
+		"/C/Users/STC/Desktop/k 2/css/style.css",
+		"/C/Users/STC/Desktop/k 2/images/illustration-1.svg",
+		"/C/Users/STC/Desktop/New folder/css/style.css",
+		"/C/Users/STC/Desktop/New folder/Index.html",
+		"/C/Users/STC/Desktop/ewshik works/Css/style.css",
+		"/C/Users/STC/Desktop/ewshik works/Index.html",
+		"/C/Users/STC/Desktop/kllkl/Index.html",
+		"/C/Users/STC/Desktop/kllkl/css/style.css",
+		"/C/Users/STC/Desktop/kyu/index.html",
+		"/C/Users/STC/Desktop/kyu/css/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FEB23D",
+			"%);",
+			"%\n",
+			";\n",
+			"%\n",
+			"headings",
+			"%\n",
+			"%;",
+			";\n",
+			"  \t\t\t\t\t\t\n",
+			">\n",
+			"case",
+			" ></",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/STC/Desktop/S CoDe/8-03-23/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2423,
+								2423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3607.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
